@@ -1,0 +1,43 @@
+.pizza-img {
+  width: 120px;
+  margin: 10px;
+  align-items: center;
+}
+a {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  color: darkred;
+  margin-left: 5px;
+
+  padding: 10px;
+}
+p {
+  font-style: italic;
+  font-size: large;
+}
+h1 {
+  color: darkred;
+  text-align: center;
+}
+h2 {
+  font-style: italic;
+}
+h3 {
+  font-style: italic;
+}
+li {
+  color: brown;
+
+  font-size: large;
+  font-style: italic;
+}
+a:hover {
+  background-color: orangered;
+}
+table {
+  color: brown;
+
+  font-size: large;
+}
